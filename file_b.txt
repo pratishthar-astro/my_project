@@ -1,1 +1,3 @@
 some text in file b
+
+It is time...to experiment and achieve greatness. Let's ***** go!
