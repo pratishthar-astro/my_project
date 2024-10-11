@@ -1,2 +1,4 @@
 some text in file a
 some more text
+
+A change has been made in the remote, there is a disturbance in the force. Beware.
